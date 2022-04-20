@@ -30,12 +30,13 @@
 
  code[class*="language-"],
  pre[class*="language-"] {
-     background: #202028;
+     background: #17171d;
      color: hsl(220, 14%, 71%);
      text-shadow: 0 1px rgba(0, 0, 0, 0.3);
      font-family: "Fira Code", "Fira Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace;
      direction: ltr;
      text-align: left;
+     padding-left: 20px;
      white-space: pre;
      word-spacing: normal;
      word-break: normal;
